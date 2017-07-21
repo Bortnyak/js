@@ -1,2 +1,2 @@
 # js
-tasks from hexlet
+tasks from hexlet.io
