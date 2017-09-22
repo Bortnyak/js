@@ -22,5 +22,4 @@ const sumOfSquare = (n) => {
     return res;
   };
   // END
-  
   export default sumSquareDifference;
